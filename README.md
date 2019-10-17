@@ -1,10 +1,10 @@
-####API Authentication:
+##API Authentication:
 header: 
 ```
 X-AUTH-TOKEN: 3bf0c1af-5daf-4e1c-8d06-27101bfb1946
 ```
 
-####SQL Questions:
+##SQL Questions:
 1. **SQL** - Structured Query Language is used to perform various operations on the data in relational databases. 
 2. **RDBMS** - Relational Database Management System is used to store data in a structured format, using rows and columns.
 3. **Data Mining** - finding new information (anomalies, patterns and correlations) in a lot of already saved (in a DB) data. That information can be used for prediction.
