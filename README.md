@@ -13,6 +13,7 @@ X-AUTH-TOKEN: 3bf0c1af-5daf-4e1c-8d06-27101bfb1946
    - only one per table (a unique identifier for each row)
    - no NULL values
    - creates clustered index
+   
    Unique key:
    - any number per table (makes sure that values in an indexed column are unique )
    - accepts NULL values
